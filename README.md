@@ -1,8 +1,12 @@
-# DDD (Domain-driven Design)
+# Node.js API
+
+API desenvolvida com os conceitos de DDD e Clean Architecture.
+
+## DDD (Domain-driven Design)
 
 Design dirigido à domínio
 
-## Domain (domínio)
+### Domain (domínio)
 
 - Domain experts
 
