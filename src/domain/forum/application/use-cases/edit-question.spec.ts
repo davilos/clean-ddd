@@ -47,7 +47,7 @@ describe('Edit Question', () => {
 
     expect(() => {
       return sut.execute({
-        authorId: 'author-1',
+        authorId: 'author-2',
         questionId: newQuestion.id.toValue(),
         content: 'Conteúdo teste',
         title: 'Pergunta teste',
